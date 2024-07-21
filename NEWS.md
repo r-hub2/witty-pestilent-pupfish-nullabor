@@ -1,3 +1,11 @@
+# nullabor 0.3.12
+
+- CITATION revised to satisfy CRAN check
+
+# nullabor 0.3.11
+
+- URLs in DESCRIPTION, CITATION, vignettes were causing an error on CRAN checks!
+
 # nullabor 0.3.10
 
 - removed dependency on reshape2

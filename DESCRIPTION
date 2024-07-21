@@ -1,5 +1,5 @@
 Package: nullabor
-Version: 0.3.10
+Version: 0.3.12
 Description: Tools for visual inference. Generate null data sets
     and null plots using permutation and simulation. Calculate distance metrics
     for a lineup, and examine the distributions of metrics.
@@ -12,8 +12,8 @@ Authors@R: c(
   )
 Maintainer: Di Cook <dicook@monash.edu>
 License: GPL (>= 2)
-URL: http://github.com/dicook/nullabor
-BugReports: http://github.com/dicook/nullabor/issues
+URL: https://github.com/dicook/nullabor
+BugReports: https://github.com/dicook/nullabor/issues
 Imports: MASS, moments, fpc, ggplot2, dplyr, purrr, tidyr, tibble,
         magrittr
 Suggests: forecast, viridis, knitr
@@ -24,7 +24,7 @@ VignetteBuilder: knitr
 RoxygenNote: 7.3.1
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2024-07-11 10:40:03 UTC; cookd
+Packaged: 2024-07-21 04:22:38 UTC; cookd
 Author: Hadley Wickham [aut, ctb] (<https://orcid.org/0000-0003-4757-117X>),
   Niladri Roy Chowdhury [aut, ctb],
   Di Cook [aut, cre] (<https://orcid.org/0000-0002-3813-7155>),
